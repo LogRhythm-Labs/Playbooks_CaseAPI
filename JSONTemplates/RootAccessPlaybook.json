@@ -1,0 +1,11 @@
+{
+  "name": "Root Access",
+  "description": "Use this Playbook when a successful unauthorized sudo or login as root occurs.",
+  "permissions": {
+    "read": "privateOwnerOnly",
+    "write": "privateOwnerOnly"
+  },
+  "entities": [
+    1
+  ]
+}

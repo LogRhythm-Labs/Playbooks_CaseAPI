@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Determine if you are investigating an incident or event",
+    "description": "Mark the case as an incident or event, accordingly.",
+    "dueWithinSeconds": 0
+  },
+  {
+    "name": "Acquire, preserve, secure, and document evidence",
+    "description": "Acquire evidence and add to the case. For other evidence (for example, memory and disk acquisitions, malware and virus samples), secure the evidence in an encrypted storage location other than your production network.",
+    "dueWithinSeconds": 0
+  },
+  {
+    "name": "Disable the affected user accounts",
+    "description": "",
+    "dueWithinSeconds": 0
+  },
+  {
+    "name": "Provide feedback and lessons learned to reduce chances of incident occurring again",
+	"description": "Identify all vulnerabilities that were a part of this incident, and provide steps to harden against such vulnerabilities in the future to the system, application, and data owners. Furthermore, provide a summary to the directors of those owners. Depending on the severity of the incident, you may also want to hold a lessons learned meeting with the directors and their managers.",
+    "dueWithinSeconds": 0
+  }
+]
