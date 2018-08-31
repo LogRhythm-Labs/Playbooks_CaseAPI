@@ -1,0 +1,11 @@
+{
+  "name": "Unauthorized Access",
+  "description": "Use this Playbook when successful unauthorized access occurs accessing either systems or data.",
+  "permissions": {
+    "read": "privateOwnerOnly",
+    "write": "privateOwnerOnly"
+  },
+  "entities": [
+    1
+  ]
+}
