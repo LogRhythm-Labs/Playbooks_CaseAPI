@@ -23,7 +23,7 @@
 #  -PlaybookJSON (Path with json files for creation of playbook)
 #  -ProcedureJSON (Path with json files for creation of procedure)
 #
-# Sample playbook and procedure JSON files can be found at https://github.com/logrhythm/Playbooks/tree/master/JSONTemplates
+# Sample playbook and procedure JSON files can be found at https://github.com/LogRhythm-Labs/Playbooks_CaseAPI/tree/master/JSONTemplates
 # 
 #
 ###############
